@@ -9,37 +9,38 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TLFracaro&bg_color=0d1117&color=ffc300&line=202ba8&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center" backgorund-color:fff>  
+<div>
+  <h2 align="rigth">•  Main skills: </h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div>
+  <h2 align="rigth">•  Studying in this moment: </h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div>
+  <h2 align="rigth">•  Other Knowledge: </h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div>
+  <h2 align="rigth">•  Tools: </h2>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div align="center" >  
+  <h3 align="rigth">• Social media: </h3>
 <a href="http://www.linkedin.com/in/tulio-farias-fracaro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffc300?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ffc300&color=fff"></a>
   <a href="http://www.instagram.com/tulio_f.f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffc300?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ffc300&color=fff"></a>
-</div>
-
-<div>
-  <h3 align="rigth">•  Main skills: </h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<div>
-  <h3 align="rigth">•  Studying in this moment: </h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<div>
-  <h3 align="rigth">•  Other Knowledge: </h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
-<div>
-  <h3 align="rigth">•  Tools: </h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a3aeb&height=120&section=footer"/>
